@@ -1,0 +1,1 @@
+You use an abstract class when the classes are already related and you want them to share some basic code but still force each one to finish the details on its own. An interface is used when different kinds of classes need the same ability, even if they aren’t related at all. Abstract is more about what something is, and interface is more about what something can do.
